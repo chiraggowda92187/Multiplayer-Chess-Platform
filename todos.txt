@@ -1,0 +1,22 @@
+todo : 
+1. add a feature to make sure that the user can play with other players or play with himself. 
+If he chooses to play with himself he should be able to send socket connection to himself.
+else he cannot send socket connection o himself
+
+
+2. When a user resigns tell the backend and also the other player know that the other user reisgned.
+
+3. Add a feature to play with computer. Four versions beginner, medium, advanced ,pro
+
+4. Add shadcn button / components
+
+5. Add a feature like 8 ball pool to 
+
+
+6. Main todo : https://github.com/code100x/chess/issues/11
+
+
+7. another main todo : https://github.com/code100x/chess/issues/13
+
+8. add ui ux drag and drop ( dnd ) , sounds to paws. Effects. Maybe shadows based on moves. Add different age of empires paws. 
+9. ability customize the pawns as per preset. the user can add different pawns of their own. ( TO make sure the user doesnt add bad images )
